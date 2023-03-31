@@ -1,4 +1,4 @@
-package com.example.CoffeOrdering.models.order
+package com.example.CoffeOrdering.compositor
 
 enum class OrderStatus {
     PENDING, IN_PROGRESS, COMPLETED, CANCELED
